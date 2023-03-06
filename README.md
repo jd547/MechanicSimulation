@@ -11,11 +11,11 @@ calculated as follows:
 - Standard deviation = claim uncertainty + mechanic variability
 
 ## Compilation
-'''
+```
 g++ main.cpp header.cpp -o mSim
-'''
+```
 
 ## Usage 
-'''
+```
 ./mSim claims.txt mechanics.txt output.txt
-'''
+```
