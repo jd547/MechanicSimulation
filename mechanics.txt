@@ -1,0 +1,11 @@
+0,John,50,-2
+1,Ryan,85,-1
+2,Linda,63,-9
+3,James,77,-3
+4,Kim,68,-4
+5,Hellen,42,-7
+6,Amanda,75,-2
+7,Young,66,-3
+8,Tommy,46,-4
+9,Sam,88,-3
+10,Peter,70,-6
